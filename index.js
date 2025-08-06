@@ -36,7 +36,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const actions = document.createElement("div");
         actions.className = "task-actions";
 
-        // Edit icon
         const editBtn = document.createElement("span");
         editBtn.className = "material-icons action-icon";
         editBtn.innerText = "edit";
@@ -50,7 +49,6 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
 
-        // Delete icon
         const deleteBtn = document.createElement("span");
         deleteBtn.className = "material-icons action-icon";
         deleteBtn.innerText = "delete";
