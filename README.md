@@ -1,4 +1,4 @@
-# 📝 Cool To-Do List Web App
+# 📝 Cool To-Do List Website
 
 A sleek and interactive To-Do List web app built using **HTML**, **CSS**, and **JavaScript**, with features like task filtering, local storage support, edit/delete, and reset functionality.
 
